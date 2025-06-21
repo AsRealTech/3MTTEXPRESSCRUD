@@ -1,10 +1,10 @@
 {
-  "name": "restapi",
+  "name": "3mttexpressapi",
   "version": "1.0.0",
   "description": "rest api",
   "main": "index.js",
   "scripts": {
-    "test": "ok"
+   "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
